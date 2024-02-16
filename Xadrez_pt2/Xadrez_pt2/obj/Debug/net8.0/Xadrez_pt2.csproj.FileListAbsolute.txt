@@ -1,0 +1,15 @@
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\bin\Debug\net8.0\Xadrez_pt2.exe
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\bin\Debug\net8.0\Xadrez_pt2.deps.json
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\bin\Debug\net8.0\Xadrez_pt2.runtimeconfig.json
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\bin\Debug\net8.0\Xadrez_pt2.dll
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\bin\Debug\net8.0\Xadrez_pt2.pdb
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\obj\Debug\net8.0\Xadrez_pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\obj\Debug\net8.0\Xadrez_pt2.AssemblyInfoInputs.cache
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\obj\Debug\net8.0\Xadrez_pt2.AssemblyInfo.cs
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\obj\Debug\net8.0\Xadrez_pt2.csproj.CoreCompileInputs.cache
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\obj\Debug\net8.0\Xadrez_pt2.sourcelink.json
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\obj\Debug\net8.0\Xadrez_pt2.dll
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\obj\Debug\net8.0\refint\Xadrez_pt2.dll
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\obj\Debug\net8.0\Xadrez_pt2.pdb
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\obj\Debug\net8.0\Xadrez_pt2.genruntimeconfig.cache
+C:\Users\dan92\OneDrive\Documentos\C#Proj\Xadrez_pt2\Xadrez_pt2\obj\Debug\net8.0\ref\Xadrez_pt2.dll
